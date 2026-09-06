@@ -1,0 +1,6 @@
+{
+  "name": "Auto Slide Video Generator",
+  "description": "Transforma presentaciones de Google Slides en videos dinámicos con animación automática de imágenes, textos y transiciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
